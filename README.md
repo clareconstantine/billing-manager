@@ -1,4 +1,4 @@
-== README
+#Billing Manager
 
 This is a coding challenge for Placements.io, representing about 4 hours of coding.
 
