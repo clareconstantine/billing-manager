@@ -6,7 +6,7 @@ module BillingHelper
     row << price_cell(item.booked_amount)
     row << price_cell(item.actual_amount)
     row << price_cell(item.adjustments)
-    row << price_cell(subtotal(item), "subtotal")
+    row << price_cell(item.subtotal, "subtotal")
 
     content_tag :tr, row
   end
@@ -26,10 +26,6 @@ module BillingHelper
 
     value = number_to_currency amount
     content_tag :td, value, :class => klasses
-  end
-
-  def subtotal item
-    subt = item.actual_amount + item.adjustments
   end
 
 end
