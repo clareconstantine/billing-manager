@@ -2,7 +2,9 @@ module BillingHelper
 
   def line_item_row item
     row = item_name_cell item
-    row << campaign_name_cell(item)
+    if all_items?
+      row << campaign_name_cell(item)
+    end
     row << price_cell(item.booked_amount)
     row << price_cell(item.actual_amount)
     row << price_cell(item.adjustments)
@@ -34,6 +36,10 @@ module BillingHelper
     end
 
     number_to_currency(sum)
+  end
+
+  def all_items?
+    @campaign_id.blank?
   end
 
 end

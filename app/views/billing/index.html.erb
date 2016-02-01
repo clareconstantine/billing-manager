@@ -6,7 +6,9 @@
   <thead>
     <tr>
       <th>Line Item</th>
-      <th>Campaign</th>
+      <% if all_items? %>
+        <th>Campaign</th>
+      <% end %>
       <th>Booked Amount</th>
       <th>Actual Amount</th>
       <th>Adjustments</th>
@@ -19,7 +21,9 @@
     <% end %>
     <tr>
       <td></td>
-      <td></td>
+      <% if all_items? %>
+        <td></td>
+      <% end %>
       <td></td>
       <td></td>
       <td class="total">Grand Total:</td>
