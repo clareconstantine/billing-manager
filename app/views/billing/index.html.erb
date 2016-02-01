@@ -1,4 +1,5 @@
 <h1>Invoice for all items</h1>
+<h2>Grand total: <%= total %></h2>
 
 <table>
   <thead>
@@ -15,5 +16,12 @@
     <% LineItem.all.each do |item| %>
       <%= line_item_row(item) %>
     <% end %>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="total">Grand Total:</td>
+      <td class="total"><%= total %></td>
   </tbody>
 </table>
