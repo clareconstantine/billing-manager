@@ -27,7 +27,7 @@ class BillingController < ApplicationController
               when 'name'
                 @items.sort_by { |item| item.line_item_name }
               when 'campaign'
-                @items.sort_by { |item| item.campaign_id }
+                @items.sort_by { |item| item.campaign_name }
               when 'booked_amount'
                 @items.sort_by { |item| item.booked_amount }
               when 'actual_amount'

@@ -13,8 +13,8 @@ Info:
 
 Usage:
 
-* To see an invoice of all line items across campaigns, visit billing#index
-* To see an invoice for a specific campaign, click the campaign name in the master invoice's table or visit billing#index/:campaign_id
+* To see an invoice of all line items across campaigns, visit /billing
+* To see an invoice for a specific campaign, click the campaign name in the master invoice's table
 * To sort by a column, click column name on any invoice
 * Subtotals displayed in last column of invoice
 * Invoice grand totals displayed at top of invoice and in last row of invoice table
