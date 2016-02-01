@@ -1,0 +1,28 @@
+<table>
+  <thead>
+    <tr>
+      <th><%=link_to "Item", sort_items_path_helper('name'), :remote => true %></th>
+      <% if all_items? %>
+        <th><%=link_to "Campaign", sort_items_path_helper('campaign'), :remote => true %></th>
+      <% end %>
+      <th><%=link_to "Booked Amount", sort_items_path_helper('booked_amount'), :remote => true %></th>
+      <th><%=link_to "Actual Amount", sort_items_path_helper('actual_amount'), :remote => true %></th>
+      <th><%=link_to "Adjustments", sort_items_path_helper('adjustments'), :remote => true %></th>
+      <th><%=link_to "Subtotal", sort_items_path_helper('subtotal'), :remote => true %></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% items.each do |item| %>
+      <%= line_item_row(item) %>
+    <% end %>
+    <tr>
+      <td></td>
+      <% if all_items? %>
+        <td></td>
+      <% end %>
+      <td></td>
+      <td></td>
+      <td class="total">Grand Total:</td>
+      <td class="total"><%= total %></td>
+  </tbody>
+</table>
