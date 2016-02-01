@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   root 'billing#index'
 
   get 'billing' => 'billing#index'
+  get 'billing/:campaign_id' => 'billing#index'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

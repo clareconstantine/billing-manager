@@ -1,4 +1,5 @@
-<h1>Invoice for all items</h1>
+<h1>Invoice for <%= @invoice_name %></h1>
+<div><%= link_to "<  All items", billing_path %></div>
 <h2>Grand total: <%= total %></h2>
 
 <table>
@@ -13,7 +14,7 @@
     </tr>
   </thead>
   <tbody>
-    <% LineItem.all.each do |item| %>
+    <% @items.each do |item| %>
       <%= line_item_row(item) %>
     <% end %>
     <tr>

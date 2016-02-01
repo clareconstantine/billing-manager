@@ -16,8 +16,7 @@ module BillingHelper
   end
 
   def campaign_name_cell item
-    # todo: make this a link to just displaying items for this campaign
-    link = item.campaign_name
+    link = link_to item.campaign_name, billing_path(:campaign_id =>item.campaign_id)
     content_tag :td, link, :class => "campaign_name"
   end
 
@@ -30,7 +29,7 @@ module BillingHelper
 
   def total
     sum = 0
-    LineItem.all.each do |item|
+    @items.each do |item|
       sum += item.subtotal.round(2)
     end
 

@@ -1,9 +1,16 @@
 class BillingController < ApplicationController
 
   def index
-    # todo: if campaign id, use campaign name in title
-    # only diisplay items with that campaign id
-    
+    @campaign_id = params[:campaign_id]
+
+    if !@campaign_id.blank?
+      @items = LineItem.where(:campaign_id => @campaign_id)
+      @invoice_name = @items.first.campaign_name
+    else
+      @items = LineItem.all
+      @invoice_name = "all items"
+    end
+
   end
 
 end
