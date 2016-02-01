@@ -8,6 +8,8 @@ Rails.application.routes.draw do
   get 'billing' => 'billing#index'
   get 'billing/:campaign_id' => 'billing#index'
 
+  get "/sort_items/:sort_by(/:campaign_id)" => 'billing#sort_items', as: 'sort_items'
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 

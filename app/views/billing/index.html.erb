@@ -1,34 +1,8 @@
 <h1>Invoice for <%= @invoice_name %></h1>
 <% if !all_items? %>
-  <div><%= link_to "<  All items", billing_path %></div>
+  <div><%= link_to "All items", billing_path %></div>
 <% end %>
 <h2>Grand total: <%= total %></h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Line Item</th>
-      <% if all_items? %>
-        <th>Campaign</th>
-      <% end %>
-      <th>Booked Amount</th>
-      <th>Actual Amount</th>
-      <th>Adjustments</th>
-      <th>Subtotal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <% @items.each do |item| %>
-      <%= line_item_row(item) %>
-    <% end %>
-    <tr>
-      <td></td>
-      <% if all_items? %>
-        <td></td>
-      <% end %>
-      <td></td>
-      <td></td>
-      <td class="total">Grand Total:</td>
-      <td class="total"><%= total %></td>
-  </tbody>
-</table>
+<div id="invoice_table">
+  <%= render :partial => 'invoice_table', :locals => {:items => @items} %>
+</div>

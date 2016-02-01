@@ -42,4 +42,12 @@ module BillingHelper
     @campaign_id.blank?
   end
 
+  def sort_items_path_helper column
+    if !all_items?
+      sort_items_path(column, @campaign_id)
+    else
+      sort_items_path(column)
+    end
+  end
+
 end
