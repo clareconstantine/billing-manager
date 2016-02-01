@@ -1,0 +1,18 @@
+<h1>Line Items</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Campaign</th>
+      <th>Line Item</th>
+      <th>Booked Amount</th>
+      <th>Actual Amount</th>
+      <th>Adjustments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% LineItem.all.each do |item| %>
+      <%= line_item_row(item) %>
+    <% end %>
+  </tbody>
+</table>
