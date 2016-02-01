@@ -1,11 +1,1645 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+# # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-# This model initially had no columns defined.  If you add columns to the
-# model remove the '{}' from the fixture names and add the columns immediately
-# below each fixture, per the syntax in the comments below
-#
-one: {}
-# column: value
-#
-two: {}
-#  column: value
+# # This model initially had no columns defined.  If you add columns to the
+# # model remove the '{}' from the fixture names and add the columns immediately
+# # below each fixture, per the syntax in the comments below
+# #
+# #one: {}
+# # column: value
+# #
+# #two: {}
+# #  column: value
+
+122:
+    id: 122
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Practical Cotton Car - 1276"
+    booked_amount: 124819.86457004401
+    actual_amount: 138100.61536651955
+    adjustments: 4305.750620626967
+123: 
+    id: 123
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Intelligent Rubber Car - 771a"
+    booked_amount: 156851.07214806214
+    actual_amount: 161981.6498294648
+    adjustments: 0
+124: 
+    id: 124
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Small Wooden Chair - 7001"
+    booked_amount: 63816.640989006526
+    actual_amount: 65886.46781498431
+    adjustments: -1867.19279696403
+125:
+    id: 125
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Small Wooden Car - e5dd"
+    booked_amount: 401636.1890250455
+    actual_amount: 398786.3578752046
+    adjustments: -1253.7391008615934
+126:
+    id: 126
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Intelligent Steel Chair - 20df"
+    booked_amount: 51929.160494981086
+    actual_amount: 47237.63035832785
+    adjustments: 1626.1793723553512
+127:
+    id: 127
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Gorgeous Cotton Pants - a94c"
+    booked_amount: 282986.70570446906
+    actual_amount: 287700.185396543
+    adjustments: 6604.634124517196
+128:
+    id: 128
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Practical Steel Hat - a397"
+    booked_amount: 96353.00330437158
+    actual_amount: 100559.54068078585
+    adjustments: -734.5130998527981
+129:
+    id: 129
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Small Wooden Shoes - 537d"
+    booked_amount: 324192.5426881078
+    actual_amount: 354114.8619763253
+    adjustments: 18771.480491799917
+130:
+    id: 130
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Rustic Cotton Shoes - 8798"
+    booked_amount: 579343.6941493433
+    actual_amount: 563877.0978335337
+    adjustments: 35652.60269625032
+131:
+    id: 131
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Awesome Cotton Hat - be78"
+    booked_amount: 368963.74222449027
+    actual_amount: 400624.9056692209
+    adjustments: 0
+132:
+    id: 132
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Practical Rubber Computer - f545"
+    booked_amount: 224101.1985653699
+    actual_amount: 237099.73544991438
+    adjustments: -802.5124358471325
+133:
+    id: 133
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Intelligent Steel Shirt - cbeb"
+    booked_amount: 402104.5355817794
+    actual_amount: 445205.4647817497
+    adjustments: 0
+134:
+    id: 134
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Sleek Concrete Shirt - cd4a"
+    booked_amount: 711799.7661117741
+    actual_amount: 678041.5944512635
+    adjustments: 4905.848530893626
+135:
+    id: 135
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Ergonomic Rubber Chair - 4d3c"
+    booked_amount: 585326.2966335384
+    actual_amount: 526113.9485203444
+    adjustments: 22597.345927494847
+136:
+    id: 136
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Practical Wooden Shoes - 9dbb"
+    booked_amount: 378137.4089573476
+    actual_amount: 416053.1403037642
+    adjustments: 4065.8149514854867
+137:
+    id: 137
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Intelligent Cotton Gloves - 7b59"
+    booked_amount: 642446.423062035
+    actual_amount: 639194.9045446878
+    adjustments: 19764.552365316402
+138:
+    id: 138
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Practical Granite Chair - f7f9"
+    booked_amount: 699563.915615726
+    actual_amount: 733630.2752098222
+    adjustments: -306.0423120061409
+139:
+    id: 139
+    campaign_id: 5
+    campaign_name: "Osinski-Skiles : Networked logistical model - 1cbc"
+    line_item_name: "Rustic Granite Chair - 242d"
+    booked_amount: 625878.445207593
+    actual_amount: 582193.7236195344
+    adjustments: 37414.22439229035
+140:
+    id: 140
+    campaign_id: 6
+    campaign_name: "Waters Inc : Realigned hybrid website - c9ee"
+    line_item_name: "Fantastic Rubber Pants - 6804"
+    booked_amount: 119475.0456826471
+    actual_amount: 105533.15866642463
+    adjustments: -4118.999553377796
+141:
+    id: 141
+    campaign_id: 6
+    campaign_name: "Waters Inc : Realigned hybrid website - c9ee"
+    line_item_name: "Incredible Wooden Pants - d17a"
+    booked_amount: 23502.5262562919
+    actual_amount: 21505.723944255125
+    adjustments: -269.61450959044316
+142:
+    id: 142
+    campaign_id: 6
+    campaign_name: "Waters Inc : Realigned hybrid website - c9ee"
+    line_item_name: "Rustic Plastic Table - f6e8"
+    booked_amount: 660597.3728296215
+    actual_amount: 666726.2657982387
+    adjustments: 7258.5675624457135
+143:
+    id: 143
+    campaign_id: 6
+    campaign_name: "Waters Inc : Realigned hybrid website - c9ee"
+    line_item_name: "Incredible Cotton Table - 320a"
+    booked_amount: 620756.9732037052
+    actual_amount: 583910.8168638395
+    adjustments: 42121.9503817773
+144:
+    id: 144
+    campaign_id: 6
+    campaign_name: "Waters Inc : Realigned hybrid website - c9ee"
+    line_item_name: "Incredible Wooden Chair - 2056"
+    booked_amount: 550507.0749044936
+    actual_amount: 523230.3684875773
+    adjustments: -27444.283924504813
+145:
+    id: 145
+    campaign_id: 6
+    campaign_name: "Waters Inc : Realigned hybrid website - c9ee"
+    line_item_name: "Practical Granite Shoes - b089"
+    booked_amount: 830494.5055377411
+    actual_amount: 749078.3458810179
+    adjustments: 57186.83630903541
+146:
+    id: 146
+    campaign_id: 6
+    campaign_name: "Waters Inc : Realigned hybrid website - c9ee"
+    line_item_name: "Fantastic Wooden Hat - 5277"
+    booked_amount: 482959.0233424382
+    actual_amount: 513705.0958351104
+    adjustments: 0
+147:
+    id: 147
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Awesome Plastic Chair - 6b4f"
+    booked_amount: 198587.13765109703
+    actual_amount: 195878.17949106317
+    adjustments: 2183.8761982529113
+148:
+    id: 148
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Sleek Concrete Pants - 477b"
+    booked_amount: 568664.6158966909
+    actual_amount: 544716.0153547811
+    adjustments: 13096.912126850586
+149:
+    id: 149
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Gorgeous Concrete Table - 97ee"
+    booked_amount: 492754.8077982565
+    actual_amount: 527673.7462759936
+    adjustments: 0
+150:
+    id: 150
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Gorgeous Steel Table - 3c55"
+    booked_amount: 248380.709490017
+    actual_amount: 247816.89457071133
+    adjustments: 7611.599346831505
+151:
+    id: 151
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Ergonomic Concrete Shoes - bdc3"
+    booked_amount: 69910.3730288062
+    actual_amount: 75170.80151266344
+    adjustments: 2851.7234604347873
+152:
+    id: 152
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Rustic Plastic Hat - 717e"
+    booked_amount: 903949.1843888017
+    actual_amount: 902936.0683142793
+    adjustments: -25645.671054502458
+153:
+    id: 153
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Intelligent Steel Shirt - 14d9"
+    booked_amount: 889892.4353530343
+    actual_amount: 972061.7834802895
+    adjustments: 16096.596018130243
+154:
+    id: 154
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Rustic Concrete Shirt - 07e2"
+    booked_amount: 654299.6477411338
+    actual_amount: 707084.3076496299
+    adjustments: -4724.522215011349
+155:
+    id: 155
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Gorgeous Rubber Chair - 51a7"
+    booked_amount: 546867.3176221446
+    actual_amount: 527573.5218941626
+    adjustments: -11286.474166608514
+156:
+    id: 156
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Ergonomic Rubber Table - 4ccd"
+    booked_amount: 998239.6986514064
+    actual_amount: 1059114.8996332223
+    adjustments: -4538.205099308691
+157:
+    id: 157
+    campaign_id: 7
+    campaign_name: "Kreiger, Farrell and Hamill : Centralized modular portal - 232c"
+    line_item_name: "Intelligent Rubber Hat - 6b3e"
+    booked_amount: 264238.1820260347
+    actual_amount: 236988.81512157788
+    adjustments: -8786.873208005294
+158:
+    id: 158
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Small Cotton Pants - a586"
+    booked_amount: 162725.06241161266
+    actual_amount: 160469.59829272615
+    adjustments: 4100.327725980609
+159:
+    id: 159
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Ergonomic Cotton Gloves - 8021"
+    booked_amount: 975657.4878996963
+    actual_amount: 941911.5094484856
+    adjustments: 452.0700656766572
+160:
+    id: 160
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Fantastic Rubber Computer - 7611"
+    booked_amount: 91192.4795986857
+    actual_amount: 98050.89595326698
+    adjustments: -523.6370064513175
+161:
+    id: 161
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Small Steel Table - 785b"
+    booked_amount: 686325.6475098415
+    actual_amount: 726295.0688400969
+    adjustments: 4016.205220180383
+162:
+    id: 162
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Practical Granite Car - 39fe"
+    booked_amount: 193901.5809597997
+    actual_amount: 181953.08831885844
+    adjustments: 9328.82834546851
+163:
+    id: 163
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Awesome Plastic Computer - e0b3"
+    booked_amount: 89907.56779232356
+    actual_amount: 84430.03035892721
+    adjustments: 6126.628253486753
+164:
+    id: 164
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Rustic Cotton Hat - 107e"
+    booked_amount: 302259.8319092312
+    actual_amount: 305928.7429691172
+    adjustments: -10196.010211577015
+165:
+    id: 165
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Ergonomic Cotton Chair - 34d0"
+    booked_amount: 369834.9005376178
+    actual_amount: 399250.1819804301
+    adjustments: 3458.9979767830596
+166:
+    id: 166
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Practical Plastic Shirt - 72cd"
+    booked_amount: 760754.8696349522
+    actual_amount: 715913.8096011471
+    adjustments: -3378.3884559173757
+167:
+    id: 167
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Practical Concrete Table - 923a"
+    booked_amount: 311412.2007184832
+    actual_amount: 320805.8505529347
+    adjustments: 12031.338195945571
+168:
+    id: 168
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Rustic Granite Car - d1cc"
+    booked_amount: 855673.4743683211
+    actual_amount: 820326.4110942783
+    adjustments: -2615.3981406247544
+169:
+    id: 169
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Fantastic Concrete Hat - 256b"
+    booked_amount: 215767.86645002489
+    actual_amount: 198669.75007060365
+    adjustments: 13300.549859206469
+170:
+    id: 170
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Gorgeous Cotton Hat - 347e"
+    booked_amount: 5937.016946357953
+    actual_amount: 5465.535906138232
+    adjustments: 176.26746298255372
+171:
+    id: 171
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Rustic Wooden Hat - 513c"
+    booked_amount: 385231.47076533106
+    actual_amount: 390353.58213092433
+    adjustments: 25245.92650326165
+172:
+    id: 172
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Practical Concrete Car - 64c2"
+    booked_amount: 464493.11888433254
+    actual_amount: 458598.0528007399
+    adjustments: 0
+173:
+    id: 173
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Sleek Granite Car - b215"
+    booked_amount: 350071.35275395785
+    actual_amount: 321632.8837076204
+    adjustments: 17245.134506817474
+174:
+    id: 174
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Small Wooden Car - 6c61"
+    booked_amount: 273169.1652782382
+    actual_amount: 266783.0202800529
+    adjustments: 27.126875933352135
+175:
+    id: 175
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Gorgeous Rubber Shoes - 2506"
+    booked_amount: 210775.3497906709
+    actual_amount: 204603.80083126217
+    adjustments: 4109.293136406723
+176:
+    id: 176
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Practical Concrete Car - 25ff"
+    booked_amount: 847681.3774754038
+    actual_amount: 856418.4814762204
+    adjustments: 32688.920543931283
+177:
+    id: 177
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Rustic Plastic Shoes - abc9"
+    booked_amount: 525445.906753932
+    actual_amount: 539156.8507951628
+    adjustments: 0
+178:
+    id: 178
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Fantastic Plastic Car - bda1"
+    booked_amount: 747022.4620768055
+    actual_amount: 737578.3457094888
+    adjustments: 0
+179:
+    id: 179
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Awesome Steel Table - b4e1"
+    booked_amount: 650930.811887336
+    actual_amount: 721028.7995975878
+    adjustments: -9157.656816297633
+180:
+    id: 180
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Ergonomic Concrete Gloves - 8d4c"
+    booked_amount: 193788.2165994792
+    actual_amount: 188907.70056236567
+    adjustments: 12890.931278563212
+181:
+    id: 181
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Sleek Steel Computer - 5661"
+    booked_amount: 343334.70113266306
+    actual_amount: 371637.5748935599
+    adjustments: 15094.835484413452
+182:
+    id: 182
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Rustic Wooden Car - 0b2d"
+    booked_amount: 431446.3539256287
+    actual_amount: 397832.56047831255
+    adjustments: 20665.07721643828
+183:
+    id: 183
+    campaign_id: 8
+    campaign_name: "Rempel Group : Multi-tiered real-time emulation - 23d9"
+    line_item_name: "Sleek Plastic Gloves - a0db"
+    booked_amount: 752961.5145086107
+    actual_amount: 792232.9387482498
+    adjustments: 33538.31638709186
+184:
+    id: 184
+    campaign_id: 9
+    campaign_name: "Gaylord Inc : Expanded solution-oriented installation - ab69"
+    line_item_name: "Intelligent Cotton Computer - 570b"
+    booked_amount: 499052.3636798563
+    actual_amount: 443519.0742101018
+    adjustments: -19199.148479493746
+185:
+    id: 185
+    campaign_id: 9
+    campaign_name: "Gaylord Inc : Expanded solution-oriented installation - ab69"
+    line_item_name: "Gorgeous Granite Shoes - 5f55"
+    booked_amount: 611204.7652913393
+    actual_amount: 606513.4610731112
+    adjustments: 23193.590986998955
+# --------------------------------------
+9861:
+    id: 9861
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Fantastic Granite Shoes - 1732"
+    booked_amount: 797679.5634817797
+    actual_amount: 749342.8547282837
+    adjustments: 0
+9862:
+    id: 9862
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Practical Concrete Shoes - f388"
+    booked_amount: 162438.66255906524
+    actual_amount: 160089.51974596674
+    adjustments: 5825.822620079568
+9863:
+    id: 9863
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Small Wooden Car - a367"
+    booked_amount: 916157.3638395505
+    actual_amount: 840877.3991145126
+    adjustments: 54454.25587899319
+9864:
+    id: 9864
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Ergonomic Concrete Pants - 6df1"
+    booked_amount: 111280.78902356686
+    actual_amount: 114631.48840799017
+    adjustments: 3515.909274321941
+9865:
+    id: 9865
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Fantastic Plastic Table - ec8c"
+    booked_amount: 120699.51652452382
+    actual_amount: 121958.77068496292
+    adjustments: -5746.077617386173
+9866:
+    id: 9866
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Ergonomic Rubber Pants - 9f6e"
+    booked_amount: 958828.7199578824
+    actual_amount: 987443.0513025163
+    adjustments: -23225.55807969497
+9867:
+    id: 9867
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Practical Rubber Pants - 717e"
+    booked_amount: 99753.05907035459
+    actual_amount: 100927.55890704466
+    adjustments: -3360.038236802453
+9868:
+    id: 9868
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Small Granite Shirt - c419"
+    booked_amount: 387765.595217391
+    actual_amount: 0
+    adjustments: -8495.11659289611
+9869:
+    id: 9869
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Ergonomic Wooden Chair - 25b7"
+    booked_amount: 24061.04925985475
+    actual_amount: 26609.388839407522
+    adjustments: 930.6613862221958
+9870:
+    id: 9870
+    campaign_id: 414
+    campaign_name: "Will-Gusikowski : Polarised holistic Graphical User Interface - 0a3e"
+    line_item_name: "Intelligent Concrete Pants - 0e94"
+    booked_amount: 774496.5971930621
+    actual_amount: 798925.4518073507
+    adjustments: 10449.303911081322
+9871:
+    id: 9871
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Rubber Shoes - 2df4"
+    booked_amount: 174188.40004058677
+    actual_amount: 186475.99355098445
+    adjustments: 11727.103045652519
+9872:
+    id: 9872
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Rubber Table - f3da"
+    booked_amount: 150368.430035118
+    actual_amount: 153709.41725914986
+    adjustments: -4925.370475181789
+9873:
+    id: 9873
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Fantastic Steel Shirt - d668"
+    booked_amount: 722069.0354493784
+    actual_amount: 663559.1785381224
+    adjustments: 0
+9874:
+    id: 9874
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Ergonomic Granite Table - a491"
+    booked_amount: 947488.462716357
+    actual_amount: 954925.6783167929
+    adjustments: 55642.7257696764
+9875:
+    id: 9875
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Granite Chair - 9ea0"
+    booked_amount: 347674.65659488516
+    actual_amount: 359747.1142253689
+    adjustments: -6998.242492303511
+9876:
+    id: 9876
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Steel Car - ce8d"
+    booked_amount: 751854.1053738057
+    actual_amount: 694437.8891949331
+    adjustments: 36022.43119282661
+9877:
+    id: 9877
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Fantastic Steel Hat - 7b8b"
+    booked_amount: 673482.6259024668
+    actual_amount: 691515.2859682073
+    adjustments: 20617.067169096543
+9878:
+    id: 9878
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Practical Cotton Table - b503"
+    booked_amount: 81635.65901118064
+    actual_amount: 0
+    adjustments: 275.7053316712774
+9879:
+    id: 9879
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Fantastic Cotton Pants - e068"
+    booked_amount: 880598.2967110244
+    actual_amount: 971554.3627932668
+    adjustments: 58360.37976536348
+9880:
+    id: 9880
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Granite Gloves - 088f"
+    booked_amount: 853891.7384759631
+    actual_amount: 887442.6478763542
+    adjustments: -30884.479748255362
+9881:
+    id: 9881
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Ergonomic Plastic Gloves - ce8a"
+    booked_amount: 939546.3408658718
+    actual_amount: 932014.5773540064
+    adjustments: -42581.17057839358
+9882:
+    id: 9882
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Ergonomic Granite Computer - c3ab"
+    booked_amount: 95702.0569659267
+    actual_amount: 105372.4007498818
+    adjustments: 0
+9883:
+    id: 9883
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Practical Wooden Shoes - d960"
+    booked_amount: 553067.1941580072
+    actual_amount: 585735.3362524527
+    adjustments: 25732.370193026763
+9884:
+    id: 9884
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Sleek Cotton Pants - 5d82"
+    booked_amount: 359985.26403773733
+    actual_amount: 393063.43992676924
+    adjustments: 0
+9885:
+    id: 9885
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Sleek Steel Shoes - cb9b"
+    booked_amount: 946372.7669598537
+    actual_amount: 1022700.2703243332
+    adjustments: 64638.74936155163
+9886:
+    id: 9886
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Small Steel Chair - 03e4"
+    booked_amount: 724227.2136718911
+    actual_amount: 715476.60617728
+    adjustments: 35864.95374017689
+9887:
+    id: 9887
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Sleek Steel Shirt - 99bb"
+    booked_amount: 235467.91551167401
+    actual_amount: 0
+    adjustments: 5158.063678559136
+9888:
+    id: 9888
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Incredible Concrete Pants - f64e"
+    booked_amount: 678021.2259121332
+    actual_amount: 740748.4592227546
+    adjustments: 31052.579971282317
+9889:
+    id: 9889
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Granite Pants - 8f39"
+    booked_amount: 30674.695787030414
+    actual_amount: 27574.841873109108
+    adjustments: 1902.251933914774
+9890:
+    id: 9890
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Small Rubber Computer - 9231"
+    booked_amount: 647929.2164516884
+    actual_amount: 616651.8429496275
+    adjustments: 31065.05627311276
+9891:
+    id: 9891
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Ergonomic Concrete Gloves - 1dd4"
+    booked_amount: 821510.7105530471
+    actual_amount: 726786.1695216149
+    adjustments: -26096.82182815509
+9892:
+    id: 9892
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Sleek Rubber Car - 0bcd"
+    booked_amount: 936846.8849059675
+    actual_amount: 855309.6582660559
+    adjustments: 1273.903595203446
+9893:
+    id: 9893
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Practical Cotton Computer - 2c34"
+    booked_amount: 829319.9829509609
+    actual_amount: 873996.5183757916
+    adjustments: -35499.08507984233
+9894:
+    id: 9894
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Practical Cotton Table - bf9d"
+    booked_amount: 826705.8070914715
+    actual_amount: 762589.8963121531
+    adjustments: 15890.199805796263
+9895:
+    id: 9895
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Rustic Cotton Gloves - 0351"
+    booked_amount: 752807.1853032985
+    actual_amount: 681387.6320584912
+    adjustments: 0
+9896:
+    id: 9896
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Intelligent Plastic Table - cbc7"
+    booked_amount: 741477.6277121744
+    actual_amount: 789594.5828247357
+    adjustments: 30909.748682857644
+9897:
+    id: 9897
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Intelligent Concrete Car - a4c4"
+    booked_amount: 943205.9900832566
+    actual_amount: 0
+    adjustments: 34653.187820989064
+9898:
+    id: 9898
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Gorgeous Cotton Shirt - 010a"
+    booked_amount: 689167.2168987493
+    actual_amount: 680144.6711292273
+    adjustments: 44125.8089878361
+9899:
+    id: 9899
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Fantastic Wooden Gloves - f447"
+    booked_amount: 871774.9980500342
+    actual_amount: 950993.4734304281
+    adjustments: 0
+9900:
+    id: 9900
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Fantastic Concrete Shirt - 3b03"
+    booked_amount: 272704.7556062231
+    actual_amount: 265959.34321454435
+    adjustments: 10084.204417296982
+9901:
+    id: 9901
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Granite Car - c9e9"
+    booked_amount: 453017.24596768344
+    actual_amount: 399166.1932208402
+    adjustments: -19536.68300859314
+9902:
+    id: 9902
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Awesome Granite Shoes - 5240"
+    booked_amount: 901727.8842565836
+    actual_amount: 904421.0856796082
+    adjustments: 0
+9903:
+    id: 9903
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Intelligent Plastic Hat - 711d"
+    booked_amount: 927744.4609030089
+    actual_amount: 837541.7903003359
+    adjustments: 15744.03848353819
+9904:
+    id: 9904
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Practical Steel Gloves - 4326"
+    booked_amount: 210539.09994660213
+    actual_amount: 195883.53853489883
+    adjustments: 0
+9905:
+    id: 9905
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Small Wooden Shirt - 7007"
+    booked_amount: 712279.4202710298
+    actual_amount: 754676.091597333
+    adjustments: -20983.380531433002
+9906:
+    id: 9906
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Sleek Steel Car - e114"
+    booked_amount: 550700.0747784186
+    actual_amount: 539740.677814553
+    adjustments: 3636.009238781598
+9907:
+    id: 9907
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Ergonomic Wooden Table - 45a1"
+    booked_amount: 531419.8988837015
+    actual_amount: 485244.1696504558
+    adjustments: -15141.50248016238
+9908:
+    id: 9908
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Gorgeous Steel Shirt - 7ba4"
+    booked_amount: 173727.68620559454
+    actual_amount: 166419.71033243093
+    adjustments: -5501.5308986054315
+9909:
+    id: 9909
+    campaign_id: 415
+    campaign_name: "Rowe-Towne : Optional bandwidth-monitored hierarchy - 74da"
+    line_item_name: "Ergonomic Granite Computer - 30f3"
+    booked_amount: 278443.5309230857
+    actual_amount: 255959.42866332195
+    adjustments: -10165.585132813432
+9910:
+    id: 9910
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Rustic Rubber Car - 832d"
+    booked_amount: 251770.52793078902
+    actual_amount: 221983.08584990725
+    adjustments: 0
+9911:
+    id: 9911
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Fantastic Concrete Table - d7f0"
+    booked_amount: 327520.61169036763
+    actual_amount: 316673.5768569628
+    adjustments: -13378.952007359032
+9912:
+    id: 9912
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Gorgeous Rubber Shirt - 6a70"
+    booked_amount: 364907.21248656453
+    actual_amount: 396858.14177677303
+    adjustments: 19738.187105909932
+9913:
+    id: 9913
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Sleek Rubber Shoes - 3029"
+    booked_amount: 666131.2532592246
+    actual_amount: 610880.3292447827
+    adjustments: 38379.01604199838
+9914:
+    id: 9914
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Awesome Wooden Shoes - 26c1"
+    booked_amount: 546620.6331166128
+    actual_amount: 500730.5583961719
+    adjustments: -17046.04926826925
+9915:
+    id: 9915
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Fantastic Concrete Hat - 500d"
+    booked_amount: 115893.39701944489
+    actual_amount: 112132.17114837651
+    adjustments: 1143.6361102682592
+9916:
+    id: 9916
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Incredible Cotton Shoes - 53a6"
+    booked_amount: 113701.54131378852
+    actual_amount: 119934.83384894498
+    adjustments: 4485.749042133303
+9917:
+    id: 9917
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Ergonomic Rubber Shirt - 4648"
+    booked_amount: 880187.818102598
+    actual_amount: 789052.4383269234
+    adjustments: 0
+9918:
+    id: 9918
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Fantastic Cotton Gloves - e5f4"
+    booked_amount: 123759.01612859908
+    actual_amount: 114297.3983837578
+    adjustments: 2365.6962822908076
+9919:
+    id: 9919
+    campaign_id: 416
+    campaign_name: "Rempel-Bradtke : Function-based full-range array - 27a3"
+    line_item_name: "Sleek Rubber Shirt - a428"
+    booked_amount: 370088.09660555306
+    actual_amount: 353961.1092937198
+    adjustments: -15140.206189335466
+9920:
+    id: 9920
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Plastic Table - f944"
+    booked_amount: 368351.55721934675
+    actual_amount: 371611.9566152972
+    adjustments: -10240.809472315437
+9921:
+    id: 9921
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Fantastic Wooden Gloves - 52c5"
+    booked_amount: 760666.6614165052
+    actual_amount: 754573.2317199877
+    adjustments: 0
+9922:
+    id: 9922
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Small Cotton Table - 09a8"
+    booked_amount: 158377.8890929387
+    actual_amount: 147448.90065335177
+    adjustments: 0
+9923:
+    id: 9923
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Wooden Hat - 08b8"
+    booked_amount: 298347.7038201591
+    actual_amount: 270734.814896092
+    adjustments: -391.2552825348143
+9924:
+    id: 9924
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Fantastic Plastic Car - 10ec"
+    booked_amount: 931567.3308757647
+    actual_amount: 1001750.2852640516
+    adjustments: 44344.44312797612
+9925:
+    id: 9925
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Concrete Car - c071"
+    booked_amount: 462879.1883711384
+    actual_amount: 488400.35914310534
+    adjustments: 0
+9926:
+    id: 9926
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Practical Steel Table - 6786"
+    booked_amount: 851523.0985330052
+    actual_amount: 909341.1486708793
+    adjustments: -40417.518135994134
+9937:
+    id: 9927
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Sleek Rubber Chair - b912"
+    booked_amount: 238565.2082157309
+    actual_amount: 248541.55057431306
+    adjustments: 1064.046811707447
+9928:
+    id: 9928
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Ergonomic Granite Hat - bc10"
+    booked_amount: 337695.30247625377
+    actual_amount: 315627.2851071518
+    adjustments: 16289.793465388022
+9929:
+    id: 9929
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Rustic Rubber Shoes - 5c9f"
+    booked_amount: 577019.9045286973
+    actual_amount: 578185.1789610466
+    adjustments: -10917.732890413441
+9930:
+    id: 9930
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Gorgeous Rubber Car - 291b"
+    booked_amount: 834089.8870164047
+    actual_amount: 824439.128921124
+    adjustments: 52236.62583540441
+9931:
+    id: 9931
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Rubber Gloves - 0a9c"
+    booked_amount: 266772.4882550653
+    actual_amount: 244358.47839636775
+    adjustments: 0
+9932:
+    id: 9932
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Fantastic Wooden Gloves - cf6d"
+    booked_amount: 610764.6082073436
+    actual_amount: 631661.5603976107
+    adjustments: 30745.596277638084
+9933:
+    id: 9933
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Practical Steel Car - 680a"
+    booked_amount: 554415.7956654925
+    actual_amount: 609312.6876704502
+    adjustments: 0
+9934:
+    id: 9934
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Sleek Plastic Shoes - 3a34"
+    booked_amount: 375431.29959388287
+    actual_amount: 333799.9922852914
+    adjustments: -9980.280107869048
+9935:
+    id: 9935
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Intelligent Granite Pants - 13b8"
+    booked_amount: 849726.7568685767
+    actual_amount: 936927.0929395125
+    adjustments: -2707.6654310888
+9936:
+    id: 9936
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Small Concrete Pants - fa01"
+    booked_amount: 699479.1514554878
+    actual_amount: 709062.9669317977
+    adjustments: 10958.395971054377
+9937:
+    id: 9937
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Gorgeous Wooden Gloves - db46"
+    booked_amount: 843532.85788781
+    actual_amount: 850334.3557571627
+    adjustments: 6762.002018805982
+9938:
+    id: 9938
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Ergonomic Cotton Pants - ad50"
+    booked_amount: 166446.6142497283
+    actual_amount: 152472.1260856782
+    adjustments: 9203.65509669465
+9939:
+    id: 9939
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Incredible Wooden Chair - e544"
+    booked_amount: 637548.2706913701
+    actual_amount: 675195.0190425122
+    adjustments: -28301.8864077608
+9940:
+    id: 9940
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Fantastic Granite Chair - f51e"
+    booked_amount: 859061.3411851467
+    actual_amount: 815430.6287677104
+    adjustments: -30541.562851201536
+9941:
+    id: 9941
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Sleek Wooden Car - 8473"
+    booked_amount: 744167.0301828143
+    actual_amount: 677866.8188174851
+    adjustments: -3547.57296407472
+9942:
+    id: 9942
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Incredible Rubber Table - aa43"
+    booked_amount: 862314.5289182574
+    actual_amount: 854346.0982818429
+    adjustments: -7919.607250297949
+9943:
+    id: 9943
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Cotton Computer - 2c5d"
+    booked_amount: 82105.33843349644
+    actual_amount: 87283.39743221548
+    adjustments: 0
+9944:
+    id: 9944
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Fantastic Wooden Chair - a66b"
+    booked_amount: 135847.83859790006
+    actual_amount: 121920.53587226395
+    adjustments: -523.7415577378968
+9945:
+    id: 9945
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Gorgeous Steel Hat - 6673"
+    booked_amount: 513291.29486826906
+    actual_amount: 555719.3037541828
+    adjustments: 5447.583090206769
+9946:
+    id: 9946
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Practical Concrete Car - 2878"
+    booked_amount: 606909.0250312428
+    actual_amount: 638537.5847597028
+    adjustments: 0
+9947:
+    id: 9947
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Ergonomic Wooden Gloves - 4b32"
+    booked_amount: 856358.0661414714
+    actual_amount: 804067.9586911366
+    adjustments: 33297.58283146256
+9948:
+    id: 9948
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Cotton Shoes - 0699"
+    booked_amount: 617901.000618903
+    actual_amount: 624019.1453783519
+    adjustments: 0
+9949:
+    id: 9949
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Ergonomic Cotton Pants - 8dec"
+    booked_amount: 772202.647280629
+    actual_amount: 796905.1936900972
+    adjustments: -21443.43337030735
+9950:
+    id: 9950
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Rubber Chair - bb23"
+    booked_amount: 621187.7977322696
+    actual_amount: 662952.255351066
+    adjustments: 1428.9867424260335
+9951:
+    id: 9951
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Fantastic Cotton Shirt - a25f"
+    booked_amount: 272751.05570888094
+    actual_amount: 247827.20013058675
+    adjustments: -7727.166600942305
+9952:
+    id: 9952
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Awesome Rubber Shoes - 3a55"
+    booked_amount: 802959.7227074612
+    actual_amount: 869090.2512401658
+    adjustments: -13449.87289579922
+9953:
+    id: 9953
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Rustic Steel Shirt - 95fa"
+    booked_amount: 150185.9025969574
+    actual_amount: 162425.09534193174
+    adjustments: -5037.122104836633
+9954:
+    id: 9954
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Fantastic Rubber Chair - c1db"
+    booked_amount: 76188.05458440969
+    actual_amount: 71798.32750111008
+    adjustments: 0
+9955:
+    id: 9955
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Sleek Steel Table - a66d"
+    booked_amount: 59126.748192785184
+    actual_amount: 56546.074323576686
+    adjustments: -2564.755325860391
+9956:
+    id: 9956
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Intelligent Cotton Shoes - aa49"
+    booked_amount: 936679.6085333563
+    actual_amount: 881046.9631302707
+    adjustments: 55188.19446018121
+9957:
+    id: 9957
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Rustic Plastic Car - bb7b"
+    booked_amount: 331014.1877566088
+    actual_amount: 351962.8193864144
+    adjustments: 0
+9958:
+    id: 9958
+    campaign_id: 417
+    campaign_name: "Schamberger, Johnson and Herman : Inverse next generation artificial intelligence - f4c8"
+    line_item_name: "Practical Plastic Chair - 82ae"
+    booked_amount: 327117.6640402702
+    actual_amount: 325571.0449058381
+    adjustments: 0
+9959:
+    id: 9959
+    campaign_id: 418
+    campaign_name: "Stanton-Veum : Cloned composite implementation - 2f8f"
+    line_item_name: "Intelligent Cotton Chair - a667"
+    booked_amount: 63163.849415410754
+    actual_amount: 67341.46721941714
+    adjustments: 3065.2940015830573
+9960:
+    id: 9960
+    campaign_id: 418
+    campaign_name: "Stanton-Veum : Cloned composite implementation - 2f8f"
+    line_item_name: "Gorgeous Cotton Shirt - 8d4b"
+    booked_amount: 444081.5703479877
+    actual_amount: 486398.2521411446
+    adjustments: 13522.721622629093
+9961:
+    id: 9961
+    campaign_id: 418
+    campaign_name: "Stanton-Veum : Cloned composite implementation - 2f8f"
+    line_item_name: "Sleek Granite Table - 4555"
+    booked_amount: 573628.7691562949
+    actual_amount: 534611.6122804502
+    adjustments: -22428.90373619395
+9962:
+    id: 9962
+    campaign_id: 418
+    campaign_name: "Stanton-Veum : Cloned composite implementation - 2f8f"
+    line_item_name: "Rustic Granite Shirt - ce6c"
+    booked_amount: 433585.06031812535
+    actual_amount: 393206.59783388104
+    adjustments: 7684.333929787929
+9963:
+    id: 9963
+    campaign_id: 418
+    campaign_name: "Stanton-Veum : Cloned composite implementation - 2f8f"
+    line_item_name: "Sleek Plastic Gloves - 1be7"
+    booked_amount: 806385.5812941865
+    actual_amount: 807636.2903534265
+    adjustments: 8974.667861449396
+9964:
+    id: 9964
+    campaign_id: 418
+    campaign_name: "Stanton-Veum : Cloned composite implementation - 2f8f"
+    line_item_name: "Rustic Wooden Computer - 7def"
+    booked_amount: 220284.879291509
+    actual_amount: 227522.42764618687
+    adjustments: -5653.737632741073
+9965:
+    id: 9965
+    campaign_id: 418
+    campaign_name: "Stanton-Veum : Cloned composite implementation - 2f8f"
+    line_item_name: "Incredible Rubber Table - 8c48"
+    booked_amount: 117754.5354074292
+    actual_amount: 127739.66159798844
+    adjustments: 5039.425838523334
+9966:
+    id: 9966
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Sleek Plastic Computer - 82ce"
+    booked_amount: 261320.4424821325
+    actual_amount: 275327.3939494052
+    adjustments: 3863.292865933037
+9967:
+    id: 9967
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Fantastic Cotton Shirt - 0921"
+    booked_amount: 863665.2208487348
+    actual_amount: 854326.4130236497
+    adjustments: -41370.82342213721
+9968:
+    id: 9968
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Gorgeous Cotton Computer - 1bb5"
+    booked_amount: 847918.3250572525
+    actual_amount: 871898.8303316252
+    adjustments: 33971.093814968226
+9969:
+    id: 9969
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Plastic Hat - f10e"
+    booked_amount: 772789.8837760871
+    actual_amount: 833677.3203129187
+    adjustments: 32876.73196915878
+9970:
+    id: 9970
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Gorgeous Steel Computer - 8de8"
+    booked_amount: 527288.5523798837
+    actual_amount: 561459.7926033892
+    adjustments: 20056.74046218321
+9971:
+    id: 9971
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Ergonomic Granite Shirt - f319"
+    booked_amount: 479295.13925407943
+    actual_amount: 490099.92371204036
+    adjustments: 3334.8783215255276
+9972:
+    id: 9972
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Plastic Computer - 521b"
+    booked_amount: 649304.6311268626
+    actual_amount: 585097.2687748751
+    adjustments: 17363.540255827666
+9973:
+    id: 9973
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Practical Plastic Shirt - 5299"
+    booked_amount: 977441.6962935639
+    actual_amount: 928809.5286427857
+    adjustments: 774.4203071782127
+9974:
+    id: 9974
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Wooden Pants - 8502"
+    booked_amount: 585185.438649239
+    actual_amount: 637441.4195361413
+    adjustments: -27474.68825488272
+9975:
+    id: 9975
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Small Cotton Gloves - a611"
+    booked_amount: 692537.2588688511
+    actual_amount: 750322.55931886
+    adjustments: -27914.470369486295
+9976:
+    id: 9976
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Gorgeous Wooden Shirt - bd11"
+    booked_amount: 373267.5044746372
+    actual_amount: 376642.0298289807
+    adjustments: 12638.417539818676
+9977:
+    id: 9977
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Small Concrete Table - ec24"
+    booked_amount: 410800.9101457859
+    actual_amount: 399905.13012053963
+    adjustments: -15359.067041922086
+9978:
+    id: 9978
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Rubber Gloves - 2ede"
+    booked_amount: 400534.87648758566
+    actual_amount: 431712.1542898594
+    adjustments: 18832.033476115328
+9979:
+    id: 9979
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Gorgeous Cotton Chair - 41c5"
+    booked_amount: 691443.1095703669
+    actual_amount: 709666.6440583974
+    adjustments: -5932.205869466137
+9980:
+    id: 9980
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Steel Shirt - b85b"
+    booked_amount: 755863.9528567707
+    actual_amount: 812391.9159142422
+    adjustments: -1508.3121032137174
+9981:
+    id: 9981
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Awesome Steel Computer - 25c4"
+    booked_amount: 668704.3237364624
+    actual_amount: 0
+    adjustments: 0
+9982:
+    id: 9982
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Incredible Plastic Shirt - e3d3"
+    booked_amount: 78558.54912208737
+    actual_amount: 75448.56522400526
+    adjustments: 0
+9983:
+    id: 9983
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Plastic Gloves - b297"
+    booked_amount: 164944.79176282784
+    actual_amount: 160841.67438126807
+    adjustments: -7618.772866441573
+9984:
+    id: 9984
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Small Plastic Table - fcf8"
+    booked_amount: 97645.13580146761
+    actual_amount: 86119.35924503094
+    adjustments: 6057.4161564419055
+9985:
+    id: 9985
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Intelligent Steel Hat - b531"
+    booked_amount: 527766.7681986269
+    actual_amount: 498661.2735638174
+    adjustments: 0
+9986:
+    id: 9986
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Sleek Granite Computer - a2d5"
+    booked_amount: 8393.467273563827
+    actual_amount: 8979.0631647615
+    adjustments: -346.33033871676923
+9987:
+    id: 9987
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Ergonomic Granite Gloves - c159"
+    booked_amount: 373222.41004954104
+    actual_amount: 332793.56894890754
+    adjustments: -6806.65001568673
+9988:
+    id: 9988
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Sleek Cotton Shirt - a2b1"
+    booked_amount: 801450.5216040926
+    actual_amount: 851446.2666997677
+    adjustments: 0
+9989:
+    id: 9989
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Intelligent Cotton Table - 9668"
+    booked_amount: 644122.6554732018
+    actual_amount: 577778.7022101837
+    adjustments: -21511.939475936124
+9990:
+    id: 9990
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Rubber Chair - 07b8"
+    booked_amount: 667859.4509508564
+    actual_amount: 617797.358509286
+    adjustments: -18938.783403246758
+9991:
+    id: 9991
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Fantastic Plastic Pants - f37c"
+    booked_amount: 456906.9382972987
+    actual_amount: 484891.0651311862
+    adjustments: 10323.07842534046
+9992:
+    id: 9992
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Small Steel Chair - 4b2a"
+    booked_amount: 855706.570501779
+    actual_amount: 918957.3255620851
+    adjustments: 0
+9993:
+    id: 9993
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Rustic Plastic Shirt - 9919"
+    booked_amount: 560855.897755479
+    actual_amount: 528081.8006617684
+    adjustments: 23178.764685118258
+9994:
+    id: 9994
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Ergonomic Rubber Hat - 2f53"
+    booked_amount: 256339.69972285887
+    actual_amount: 253137.74285300588
+    adjustments: -4410.343814491817
+9995:
+    id: 9995
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Awesome Steel Table - b00d"
+    booked_amount: 872274.3562672483
+    actual_amount: 945777.4574945084
+    adjustments: 56103.54815747875
+9996:
+    id: 9996
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Gorgeous Steel Hat - 1507"
+    booked_amount: 508702.51864627714
+    actual_amount: 449956.90025705454
+    adjustments: 13111.16916209526
+9997:
+    id: 9997
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Intelligent Granite Pants - 10d8"
+    booked_amount: 895366.605198626
+    actual_amount: 886425.2667873796
+    adjustments: 61362.376334553766
+9998:
+    id: 9998
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Practical Rubber Car - b0c3"
+    booked_amount: 348140.55481753335
+    actual_amount: 376541.76291774836
+    adjustments: 3842.295874504787
+9999:
+    id: 9999
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Intelligent Steel Shoes - 7870"
+    booked_amount: 303751.01262944995
+    actual_amount: 306374.6060875205
+    adjustments: -810.6233787782048
+10000:
+    id: 10000
+    campaign_id: 419
+    campaign_name: "Larkin, Reynolds and Ritchie : Enterprise-wide 3rd generation success - e8d6"
+    line_item_name: "Intelligent Steel Shirt - 2d19"
+    booked_amount: 105243.85945259563
+    actual_amount: 93659.54567461848
+    adjustments: 4368.184346036311
